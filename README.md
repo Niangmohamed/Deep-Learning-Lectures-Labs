@@ -5,7 +5,7 @@
 </a>
 
 This course is being taught at as part of [Master Datascience Paris
-Saclay](http://datascience-x-master-paris-saclay.fr)
+Saclay](http://datascience-x-master-paris-saclay.fr).
 
 <p style="text-align: center">
 <a href="http://datascience-x-master-paris-saclay.fr/"><img
