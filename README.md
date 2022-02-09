@@ -1,4 +1,4 @@
-# Deep Learning course: lecture slides and lab notebooks
+# Deep Learning Course: lecture slides and lab notebooks
 
 <a href="https://mybinder.org/v2/gh/m2dsupsdlclass/lectures-labs/master">
   <img src="https://mybinder.org/badge.svg" />
